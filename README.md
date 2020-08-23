@@ -15,9 +15,9 @@ Version: 1.0
 Combined got-internet, ping and net-info
 
 ### Based on: 
-got-internet.sh
+got-internet.sh https://github.com/matryer/bitbar-plugins/blob/master/Network/got-internet.2s.sh
 
-ping.sh
+ping.sh https://github.com/matryer/bitbar-plugins/blob/master/Network/ping.10s.sh
 
-net-info.sh
+netinfo.sh https://github.com/matryer/bitbar-plugins/blob/ec3ac184198936271503018330314fa38ad63a1a/Network/netinfo.60s.sh
 
