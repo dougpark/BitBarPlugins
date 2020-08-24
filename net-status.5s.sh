@@ -85,7 +85,8 @@ function display-ping {
 	if [ $AVG -ge $MAX_PING ]; then
 	MSG=" ❌ "
 	else
-	MSG='⚡'"$AVG"'±'"$SD"
+	# MSG='⚡'"$AVG"'±'"$SD"
+	MSG=''"$AVG"'±'"$SD"
 	fi
 
 	function colorize {
